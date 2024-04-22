@@ -6,7 +6,13 @@
 <div id="user-content-toc">
   <ul align="center">
     <div class="gradient-text">
-      <h1 class="self">Your Text Here</h1>
+      <h1 style="background-color: linear-gradient(to right, #f00, #0f0, #00f); /* Adjust colors as desired */
+    -webkit-background-clip: text; /* For WebKit browsers */
+    background-clip: text; /* For modern browsers */
+    color: transparent;
+    font-size: 48px; /* Adjust font size as desired */
+    text-align: center; /* Center the text */
+    padding: 20px;">Your Text Here</h1>
     </div>
   </ul>
 </div>
@@ -24,17 +30,5 @@
     <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
   </div> 
 </p>
-
-<style>
-  .self {
-    background-color: linear-gradient(to right, #f00, #0f0, #00f); /* Adjust colors as desired */
-    -webkit-background-clip: text; /* For WebKit browsers */
-    background-clip: text; /* For modern browsers */
-    color: transparent;
-    font-size: 48px; /* Adjust font size as desired */
-    text-align: center; /* Center the text */
-    padding: 20px;
-  }
-</style>
 
 

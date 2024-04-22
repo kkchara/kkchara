@@ -1,16 +1,3 @@
-<style>
-  .kkchara {
-    background-color: linear-gradient(to right, #f00, #0f0, #00f);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    font-size: 48px;
-    text-align: center;
-    padding: 20px;
-}
-</style>
-
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

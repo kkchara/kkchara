@@ -6,12 +6,12 @@
 <div id="user-content-toc">
   <ul align="center">
     <div class="gradient-text">
-      <h1 style="background-color: linear-gradient(to right, #f00, #0f0, #00f); /* Adjust colors as desired */
-    -webkit-background-clip: text; /* For WebKit browsers */
-    background-clip: text; /* For modern browsers */
+      <h1 style="background-color: linear-gradient(to right, #f00, #0f0, #00f);
+    -webkit-background-clip: text;
+    background-clip: text;
     color: transparent;
-    font-size: 48px; /* Adjust font size as desired */
-    text-align: center; /* Center the text */
+    font-size: 48px;
+    text-align: center;
     padding: 20px;">Your Text Here</h1>
     </div>
   </ul>

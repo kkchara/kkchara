@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <dev>
   <img src="https://img2.imgtp.com/2024/05/29/ZFrRb8J5.png"/>
-  <img src="https://img2.imgtp.com/2024/05/29/1Cm1b2hf.png" alt="arkandyuan.png" title="arkandyuan.png" />
+  <img src="https://img.qovv.cn/2024/05/29/6656fd0c0c775.png" />
 </dev>
 
 

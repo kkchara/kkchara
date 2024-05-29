@@ -23,11 +23,5 @@
   <img  src="https://img2.imgtp.com/2024/05/29/1Cm1b2hf.png"/>
 </p>
 
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
-  </div> 
-</p>
 
 

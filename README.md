@@ -17,7 +17,7 @@
        alt="snake" />
 </div>
 <p>
-  <img  src="https://img2.imgtp.com/2024/05/29/i8rNYs9F.png"
+  <img  src="https://img2.imgtp.com/2024/05/29/ZFrRb8J5.png"
        alt="" />
 </p>
 

@@ -16,9 +16,10 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" />
 </div>
-<div>
+<div style = "position:relative; lrft:100px">
   <img  src="https://img2.imgtp.com/2024/05/29/i8rNYs9F.png"
        alt="" />
+</div>
 
 <p align="center"> 
   <div align="center">Visitor count</div>

@@ -14,8 +14,11 @@
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+       alt="snake" />
 </div>
+<div>
+  <img  src="https://img2.imgtp.com/2024/05/29/i8rNYs9F.png"
+       alt="" />
 
 <p align="center"> 
   <div align="center">Visitor count</div>

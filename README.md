@@ -18,7 +18,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <dev>
-  <img src="https://img2.imgtp.com/2024/05/29/ZFrRb8J5.png"/>
+  <img src="https://img2.imgtp.com/2024/05/29/ja8hWRoS.png" />
   <img src="https://i2.mjj.rip/2024/05/29/8e678643d901af4d9c596322878f3725.png" />
 </dev>
 

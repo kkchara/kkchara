@@ -21,7 +21,7 @@
   <img src="https://i2.mjj.rip/2024/05/29/8e678643d901af4d9c596322878f3725.png" />
   <img src="https://img2.imgtp.com/2024/05/29/ja8hWRoS.png" />
   <img src="https://files.catbox.moe/1lv4dp.png" />
-  <img src="https://img2.imgtp.com/2024/05/29/O6q4k1ct.png" />
+  <img src="https://files.catbox.moe/9vfu91.png" />
 </dev>
 
 

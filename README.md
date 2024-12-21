@@ -12,10 +12,10 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<center class="half">
+<p>
   <img src="https://acg-card.vercel.app/api/bsss?userid=76561199085587690&color=01040a" width=200/>
   <img src="https://acg-card.vercel.app/api/maimai?name=kkchara&color=01040a">
-</center>
+</p>
 
 ![bs](https://acg-card.vercel.app/api/bsss?userid=76561199085587690&color=01040a)![mai](https://acg-card.vercel.app/api/maimai?name=kkchara&color=01040a)
 

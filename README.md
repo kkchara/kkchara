@@ -12,8 +12,12 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://acg-card.vercel.app/api/bsss?userid=76561199085587690&color=0D1116">
-<img src="https://acg-card.vercel.app/api/maimai?name=kkchara&color=0D1116">
+<p>
+  <img src="https://acg-card.vercel.app/api/bsss?userid=76561199085587690&color=0D1116">
+  
+  <img src="https://acg-card.vercel.app/api/maimai?name=kkchara&color=0D1116">
+</p>
+
 <dev>
   <img src="https://files.catbox.moe/if3wd0.jpg" />
   <img src="https://files.catbox.moe/1lv4dp.png" />

@@ -20,7 +20,6 @@
 <dev>
   <img src="https://files.catbox.moe/if3wd0.jpg" />
   <img src="https://files.catbox.moe/1lv4dp.png" />
-  <img src="https://files.catbox.moe/9vfu91.png" />
 </dev>
 
 

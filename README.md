@@ -17,6 +17,8 @@
   <img src="https://acg-card.vercel.app/api/maimai?name=kkchara&color=01040a">
 </center>
 
+![bs](https://acg-card.vercel.app/api/bsss?userid=76561199085587690&color=01040a)![mai](https://acg-card.vercel.app/api/maimai?name=kkchara&color=01040a)
+
 <dev>
   <img src="https://files.catbox.moe/if3wd0.jpg" />
   <img src="https://files.catbox.moe/1lv4dp.png" />

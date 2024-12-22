@@ -13,8 +13,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>
-  <img src="https://acg-card.vercel.app/api/bsss?userid=76561199085587690&color=01040a" width=498/>
-  <img src="https://acg-card.vercel.app/api/maimai?name=abalaxxx&color=01040a" width=498/>
+  <img src="https://acg-card.vercel.app/api/bsss?userid=76561199085587690&color=01040a" width=430/>
+  <img src="https://acg-card.vercel.app/api/maimai?name=abalaxxx&color=01040a" width=430/>
 </p>
 
 <dev>

@@ -15,7 +15,6 @@
 <p>
   <img src="https://acg-card.vercel.app/api/bsss?userid=76561199085587690&color=01040a" width=415/>
   <img src="https://acg-card.vercel.app/api/maimai?name=kkchara&color=01040a" width=415/>
-  
 </p>
 
 <dev>

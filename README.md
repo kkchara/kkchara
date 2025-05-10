@@ -17,12 +17,6 @@
   <img src="https://acg-card.vercel.app/api/maimai?name=abalaxxx&color=01040a" width=414/>
 </p>
 
-<dev>
-  <--!-->
-  <img src="https://files.catbox.moe/if3wd0.jpg" />
-  <img src="https://files.catbox.moe/1lv4dp.png" />
-  <--!-->
-</dev>
 
 
 
